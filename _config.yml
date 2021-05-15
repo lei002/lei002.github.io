@@ -103,6 +103,6 @@ theme: hexo-theme-matery-master
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  #repo: https://github.com/lei002/boke.git
+  type: 'git'
+  #repo: https://github.com/lei002/lei002.git
   branch: gh-pages
