@@ -630,4 +630,4 @@ bbtime:
  enable: false
  appId: # 你的appId
  appKey: # 你的appKey
- serverURLs: #https://lei002.github.io/boke/ # https://你的api
+ serverURLs: # https://你的api
