@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: CSCC
 subtitle: ''
-description: ''
+description: '学习记录'
 keywords:
-author: John Doe
-language: en
+author: 金磊
+language: ch
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://lei002.github.io/
-root: /boke/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,6 +103,6 @@ theme: hexo-theme-matery-master
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
+  type: git
   #repo: https://github.com/lei002/boke.git
   branch: gh-pages
