@@ -1,3 +1,6 @@
+---
+abbrlink: 1
+---
 # Java语法基础
 
 [TOC]
