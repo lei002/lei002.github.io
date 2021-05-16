@@ -108,8 +108,8 @@ theme: hexo-theme-matery-master
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/lei002/lei002.github.io.git
+  type: 'git'
+  #repo: https://github.com/lei002/lei002.github.io.git
   branch: gh-pages
 githubEmojis:
   enable: true
