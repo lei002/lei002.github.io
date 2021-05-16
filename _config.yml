@@ -110,7 +110,7 @@ theme: hexo-theme-matery-master
 deploy:
   type: git
   repo: https://github.com/lei002/lei002.github.io.git
-  branch: master
+  branch: gh-pages
 githubEmojis:
   enable: true
   className: github-emoji
