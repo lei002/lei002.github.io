@@ -1,5 +1,12 @@
 ---
-abbrlink: 1
+title: HTTP&Tomcat
+categories: JavaEE
+tags: java
+abbrlink: 25699
+date: 2021-05-17 09:25:00
+---
+---
+
 ---
 # 学习方法
 
